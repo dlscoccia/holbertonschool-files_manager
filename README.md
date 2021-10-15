@@ -1,2 +1,9 @@
-# holbertonschool-files_manager
-Platform to upload and view files with:   User authentication via a token, List all files, Upload a new file, Change permission of a file, View a file and Generate thumbnails for images. Using NodeJS, MongoDB and Redis.
+# 0x15. Files Manager
+
+## Learning Objectives
+
+- how to create an API with Express
+- how to authenticate a user
+- how to store data in MongoDB
+- how to store temporary data in Redis
+- how to setup and use a background worker
